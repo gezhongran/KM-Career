@@ -9,7 +9,7 @@
 
 - 书单资源：https://www.douban.com/doulist/131340410/  （第一周图情分析完成后更新）
 
-- 协作群组：https://www.zotero.org/groups/2545103/  （Zotero）
+- 协作群组：https://www.zotero.org/groups/2545103/kmexplorer-career  （Zotero群组）
 
 - 其他资源：岗位资源、薪酬资源、测试量表资源陆续更新
 
