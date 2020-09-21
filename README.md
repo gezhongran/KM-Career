@@ -15,12 +15,12 @@
 
   | 作者   | 日志                                                         | 点评                                                     |
   | ------ | ------------------------------------------------------------ | -------------------------------------------------------- |
-  | 李菁   | [**《职业生涯资料搜索日志》**](https://shimo.im/docs/r6rQY9vGwV9HKrXG/ ) | 复盘里的这个经验非常重要「有些书不适合做搭建框架的资料」 |
+  | 李菁   | [**《职业生涯搜索日志》**](https://shimo.im/docs/r6rQY9vGwV9HKrXG/ ) | 复盘里的这个经验非常重要「有些书不适合做搭建框架的资料」 |
   | 单一念 | [**《职业生涯搜索日志》**]( https://docs.qq.com/doc/DR0N5UUVXSWtaZ2xl ) |                                                          |
-  | 单一念 | [**《目录对比日志——职业生涯》**](https://docs.qq.com/doc/DR1VLY3huUXBXWkJZ) |                                                          |
-  | 徐开心 | [**《职业生涯最小全局资料定位》**](https://docs.qq.com/doc/DR2laQ0VncXdSbkJW) |                                                          |
-  | 018    | [**《职业生涯拓荒营目录对比日志》**](https://mubu.com/doc/vziXZxnYEP) |                                                          |
-  | 江     | [**《图书搜索日志-职业生涯发展与规划》**](https://docs.qq.com/doc/DU1lsR2RNbXl1emFw) |                                                          |
+  | 单一念 | [**《目录对比日志—职业生涯》**](https://docs.qq.com/doc/DR1VLY3huUXBXWkJZ) |                                                          |
+  | 徐开心 | [**《职业最小全局资料定位》**](https://docs.qq.com/doc/DR2laQ0VncXdSbkJW) |                                                          |
+  | 018    | [**《职业生涯目录对比日志》**](https://mubu.com/doc/vziXZxnYEP) |                                                          |
+  | 江     | [**《图书搜索日志-职业发展与规划》 **](https://docs.qq.com/doc/DU1lsR2RNbXl1emFw) |                                                          |
   | Ryan   | [**《职业生涯拓荒营搜索报告》**](https://shimo.im/docs/JYvYdGW9qtH99Wtr/read) |                                                          |
   | 郁珏   | [**《W1-图书搜索日志》**](https://shimo.im/docs/WdYThyTH9DPCG9wh/ ) |                                                          |
   | 郁珏   | [**《W1-目录分析日志》**](https://shimo.im/docs/HKQPK3yPXWdHVDRk/ ) |                                                          |
@@ -28,12 +28,12 @@
   - 补充：[《关于职业规划师考证的那点八卦》By 单一念](https://docs.qq.com/doc/DR0dBUFppSmxUS3dv	)
 - Week2 阅读与写卡日志
 
-  | 作者    | 日志                                                         | 点评 |
-  | ------- | ------------------------------------------------------------ | ---- |
-  | 郁珏    | [《W2-主题阅读日志-社会学习理论》](https://shimo.im/docs/PCDX8WqrHJkrDjXw/read) |      |
-  | 单一念  | [《索引定位日志-生涯发展理论（第4版）》](https://docs.qq.com/doc/DR3NWSGxaVkFicE1B) |      |
-  | Grace   | [《拓荒营定位阅读日志_20200920》](https://shimo.im/docs/K3hJtYKYwRCVq9HY/ ) |      |
-  | 阿凡Fan | [《Onet网站使用之——按能力查找职业》](https://shimo.im/docs/36qqd3dyTPkdyhVv/read) |      |
+  | 作者    | 日志                                                         | 点评                                                     |
+  | ------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+  | 郁珏    | [**《W2-主题阅读日志-社会学习理论》**](https://shimo.im/docs/PCDX8WqrHJkrDjXw/read) | 复盘里的这个经验非常重要「有些书不适合做搭建框架的资料」 |
+  | 单一念  | [**《索引定位日志-生涯发展理论（第4版）》**](https://docs.qq.com/doc/DR3NWSGxaVkFicE1B) |                                                          |
+  | Grace   | [**《拓荒营定位阅读日志_20200920》**](https://shimo.im/docs/K3hJtYKYwRCVq9HY/ ) |                                                          |
+  | 阿凡Fan | [**《Onet网站使用之——按能力查找职业》**](https://shimo.im/docs/36qqd3dyTPkdyhVv/read) |                                                          |
 
 
 3. 其他资源：岗位资源、薪酬资源、测试量表资源陆续更新
