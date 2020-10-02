@@ -54,15 +54,15 @@
 
 P.S 点评参考文件《全部作业反馈汇总.pdf》
 
-- Week4 拼卡成文日志（2020.10.02更新）
+- Week3  拼卡成文日志（2020.10.02更新）
 
 | 作者      | 日志名称                                                     |
 | --------- | ------------------------------------------------------------ |
-| Chris     | [《职业生涯拓荒营 拼卡成文日志》](https://shimo.im/docs/XYxRQPKKvrYcKVyJ/ 《职业生涯拓荒营 拼卡成文日志》) |
-| I am Cc   | [《W3-拼卡成为日志-职业与职业分类》](https://shimo.im/docs/GH8qvttX93xT99Gx/ ) |
-| 郁珏      | [《W3-拼卡成文日志》](https://shimo.im/docs/YqtYV9TCgpgvQ6hT/ ) |
-| Persevere | [《模块4-输出信息之落地行动理论小全局日志》](https://shimo.im/docs/h9zH3C9zqzMQzfXG/read) |
-| 李菁      | [《职场发展子模块拼卡成文日志-第4组](https://shimo.im/docs/xkqDg3JHcDt6PDXH/read)》 |
+| Chris     | [《职业生涯拓荒营 拼卡成文日志》](https://shimo.im/docs/XYxRQPKKvrYcKVyJ/ ) |
+| I am Cc   | [《拼卡成为日志-职业与职业分类》](https://shimo.im/docs/GH8qvttX93xT99Gx/ ) |
+| 郁珏      | [《拼卡成文日志》](https://shimo.im/docs/YqtYV9TCgpgvQ6hT/ ) |
+| Persevere | [《输出信息之落地行动理论小全局日志》](https://shimo.im/docs/h9zH3C9zqzMQzfXG/read) |
+| 李菁      | [《职场发展子模块拼卡成文日志》](https://shimo.im/docs/xkqDg3JHcDt6PDXH/read) |
 
 P.S 点评参考文件《全部作业反馈汇总.pdf》
 
