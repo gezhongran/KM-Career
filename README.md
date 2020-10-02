@@ -55,7 +55,7 @@ P.S:[《关于职业规划师考证的那点八卦》By 单一念](https://docs.
 | 第3组-职业理论与决策 | keira                                                        | [《生涯发展理论》](https://shimo.im/docs/W9rpqg9dwVCrvchr/)  |
 | 第4组-职业理论与决策 | 李菁、阿茅、洪伟强                                           | [第4组-职业实践小全局报告](https://shimo.im/docs/VHcHPRkvpX69rYKH/ ) |
 
-P.S 点评参考文件《全部作业反馈汇总.pdf》
+P.S 点评参考文件[《全部作业反馈汇总.pdf》](https://github.com/gezhongran/KM-Career/blob/master/%E5%85%A8%E9%83%A8%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E6%B1%87%E6%80%BB.pdf)
 
 - Week3  拼卡成文日志（2020.10.02更新）
 
@@ -67,7 +67,7 @@ P.S 点评参考文件《全部作业反馈汇总.pdf》
 | Persevere | [《输出信息之落地行动理论小全局日志》](https://shimo.im/docs/h9zH3C9zqzMQzfXG/read) |
 | 李菁      | [《职场发展子模块拼卡成文日志》](https://shimo.im/docs/xkqDg3JHcDt6PDXH/read) |
 
-P.S 点评参考文件《全部作业反馈汇总.pdf》
+P.S 点评参考文件[《全部作业反馈汇总.pdf》](https://github.com/gezhongran/KM-Career/blob/master/%E5%85%A8%E9%83%A8%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E6%B1%87%E6%80%BB.pdf)
 
 - 其他资源：岗位资源、薪酬资源、测试量表资源陆续更新（整理中）
 
