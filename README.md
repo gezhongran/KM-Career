@@ -26,7 +26,9 @@
 | 郁珏    | [**《W1-目录分析日志》**](https://shimo.im/docs/HKQPK3yPXWdHVDRk/ ) | uTools的OCR功能使用好。从初印象到最后结论的生成，全过程都有保留 |
 | I am Cc | [**《W1图书搜索日志-职业规划0910》**](https://shimo.im/docs/kwdTQ3GTC8Dj6PCk/) | 有几个不错的点：一开始使用去找到了职业生涯的上位词与下位词。最后的复盘很好，任何时候都容易迷失在信息洪流里，所以先通过教材搭框架，再按框架来搜是个很好约束方法。 |
 | I am Cc | [**《W1目录分析日志-职业规划》**](https://shimo.im/docs/WY6tgRW6W9VpTRdr/) | 这里面详细讲解了如何从157本→18本→10本→7本→5本缩小筛选范围的思路，非常棒！预判、交叉验证、读序言各种方法交替使用。 |
-  - 补充：[《关于职业规划师考证的那点八卦》By 单一念](https://docs.qq.com/doc/DR0dBUFppSmxUS3dv	)
+
+    - 补充：[《关于职业规划师考证的那点八卦》By 单一念](https://docs.qq.com/doc/DR0dBUFppSmxUS3dv	)
+
 - Week2 阅读与写卡日志（2020.09.20更新）
 
 | 作者    | 日志名称                                                     | 点评                                                         |
