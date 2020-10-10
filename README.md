@@ -47,10 +47,10 @@ P.S:[《关于职业规划师考证的那点八卦》By 单一念](https://docs.
 | 第1组-自我认知       | Chris                                                        | [《职业生涯-兴趣、价值观 小全局报告》](https://shimo.im/docs/8DctKJ3rJhwktDGg/) |
 | 第1组-自我认知       | 江                                                           | [《三大哲学问题之“我是谁”》](https://docs.qq.com/doc/DU0xRbXltelJYWVdx) |
 | 第2组-职业认知       | 赵无忌、晴空、阿凡、左橙、长风、cc、清澈溪流、冬烟、Jinghong、Daphny、何亚平、东东咚咚、明、七七、梁梦吟、清晨、听风雨、单一念（主笔） | [《职业认知小全局》](https://docs.qq.com/doc/DR0ZCUUR4eU1SVndp) |
-| 第2组-职业认知       | I am Cc                                                      | 《职业认知-职业定义与分类》（包含在《职业认知小全局》中）    |
-| 第2组-职业认知       | 晴空                                                         | 《与薪酬结构相关的理论和实践-以腾讯为例》（包含在《职业认知小全局》中） |
-| 第2组-职业认知       | 清澈溪流                                                     | 《组织文化（企业）》（包含在《职业认知小全局》中）           |
-| 第2组-职业认知       | 单一念                                                       | 《我把ONET online的所有链接都点了一遍——ONET 探索日志》（包含在《职业认知小全局》中） |
+| 第2组-职业认知       | I am Cc                                                      | [《职业认知-职业定义与分类》](https://shimo.im/docs/kJXxXGwrVkT6vxxT/read) |
+| 第2组-职业认知       | 晴空                                                         | [《与薪酬结构相关的理论和实践-以腾讯为例》](https://docs.qq.com/doc/DU3RZbE14ck9pQWdx) |
+| 第2组-职业认知       | 清澈溪流                                                     | [《组织文化（企业）》](https://docs.qq.com/doc/DWGRJV1RvanpVUG9N) |
+| 第2组-职业认知       | 单一念                                                       | [《我把ONET online的所有链接都点了一遍——ONET 探索日志》](https://docs.qq.com/doc/DR2Z6emhERmtJdE14) |
 | 第3组-职业理论与决策 | 郁珏（主笔）、零、耄羊子、梦境彼岸、巫小宏、小粉、Ben、keira、Summer、Sunny Choi | [《职业理论与决策小全局报告》](https://shimo.im/docs/qvYkgGDwhyXCDJYV/ ) |
 | 第3组-职业理论与决策 | keira                                                        | [《生涯发展理论》](https://shimo.im/docs/W9rpqg9dwVCrvchr/)  |
 | 第4组-职业理论与决策 | 李菁、阿茅、洪伟强                                           | [第4组-职业实践小全局报告](https://shimo.im/docs/VHcHPRkvpX69rYKH/ ) |
