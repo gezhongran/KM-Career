@@ -132,11 +132,9 @@ P.S 点评参考文件[《全部作业反馈汇总.pdf》](https://github.com/ge
 | [O*Net](https://www.onetonline.org/)                    | 正在逐步取代《职业名称词典》（DOT）                      |
 | [美国职业生涯信息网](www.acinet.org)                    |                                                          |
 | [《国家职业分类网》（加拿大）](https://noc.esdc.gc.ca/) |                                                          |
-| [职业咨询角](www.careercc.com/careerexp.sht
-ml)          | 职业探索链接，提供了18 组职息的链接路径。                |
+| [职业咨询角](www.careercc.com/careerexp.sht<br/>ml)     | 职业探索链接，提供了18 组职息的链接路径。                |
 | [工作猎头圣经](www.jobhuntersbible.com)                 | Dick Bolles官网（AUTHOR OF What Color IsYOUR PARACHUTE） |
 | [物理学家的职业生涯](https://www.aip.org/careers)       | 美国物理研究所,告诉学生在物理科学领域的各种              |
-
 7. 直播路演：10月10日晚上，10月11日下午
 
 ---
