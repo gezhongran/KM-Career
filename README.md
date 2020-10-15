@@ -47,6 +47,8 @@ P.S:[《关于职业规划师考证的那点八卦》By 单一念](https://docs.
 | 第1组-自我认知       | [《职业生涯-兴趣、价值观 小全局报告》](https://shimo.im/docs/8DctKJ3rJhwktDGg/) | Chris                                                        |
 | 第1组-自我认知       | [《三大哲学问题之“我是谁”》](https://docs.qq.com/doc/DU0xRbXltelJYWVdx) | 江                                                           |
 | 第1组-自我认知       | [《研究动机心理学应用于人岗之间的最小全局报告》](https://shimo.im/docs/g9TWwtWTcxqdKrYq/ ) | 曾梓庭                                                       |
+| 第1组-自我认知       | [能力及技能最小全局认知报告](https://docs.qq.com/doc/DTmZ5aWd0bHVET2JE) | Aromacat                                                     |
+| 第1组-自我认知       | [人格及MBTI最小全局认知报告](https://docs.qq.com/doc/DTmhZWFZMYm5hSkhB) | Aromacat                                                     |
 | 第2组-职业认知       | [《职业认知小全局》](https://docs.qq.com/doc/DR0ZCUUR4eU1SVndp) | 赵无忌、晴空、阿凡、左橙、长风、cc、清澈溪流、冬烟、Jinghong、Daphny、何亚平、东东咚咚、明、七七、梁梦吟、清晨、听风雨、单一念（主笔） |
 | 第2组-职业认知       | [《职业认知-职业定义与分类》](https://shimo.im/docs/kJXxXGwrVkT6vxxT/read) | I am Cc                                                      |
 | 第2组-职业认知       | [《与薪酬结构相关的理论和实践-以腾讯为例》](https://docs.qq.com/doc/DU3RZbE14ck9pQWdx) | 晴空                                                         |
