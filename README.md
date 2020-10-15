@@ -41,19 +41,21 @@ P.S:[《关于职业规划师考证的那点八卦》By 单一念](https://docs.
 
 - Week3 各组小全局报告（2020.09.28更新）
 
-| 小组                 | 作者                                                         | 报告                                                         |
+| 小组                 | 报告                                                         | 作者                                                         |
 | -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 第1组-自我认知       | Grace                                                        | [《霍兰德职业兴趣+小全局报告》](https://shimo.im/docs/kpqGjRRkhTQVVtdh/ ) |
-| 第1组-自我认知       | Chris                                                        | [《职业生涯-兴趣、价值观 小全局报告》](https://shimo.im/docs/8DctKJ3rJhwktDGg/) |
-| 第1组-自我认知       | 江                                                           | [《三大哲学问题之“我是谁”》](https://docs.qq.com/doc/DU0xRbXltelJYWVdx) |
-| 第2组-职业认知       | 赵无忌、晴空、阿凡、左橙、长风、cc、清澈溪流、冬烟、Jinghong、Daphny、何亚平、东东咚咚、明、七七、梁梦吟、清晨、听风雨、单一念（主笔） | [《职业认知小全局》](https://docs.qq.com/doc/DR0ZCUUR4eU1SVndp) |
-| 第2组-职业认知       | I am Cc                                                      | [《职业认知-职业定义与分类》](https://shimo.im/docs/kJXxXGwrVkT6vxxT/read) |
-| 第2组-职业认知       | 晴空                                                         | [《与薪酬结构相关的理论和实践-以腾讯为例》](https://docs.qq.com/doc/DU3RZbE14ck9pQWdx) |
-| 第2组-职业认知       | 清澈溪流                                                     | [《组织文化（企业）》](https://docs.qq.com/doc/DWGRJV1RvanpVUG9N) |
-| 第2组-职业认知       | 单一念                                                       | [《我把ONET online的所有链接都点了一遍——ONET 探索日志》](https://docs.qq.com/doc/DR2Z6emhERmtJdE14) |
-| 第3组-职业理论与决策 | 郁珏（主笔）、零、耄羊子、梦境彼岸、巫小宏、小粉、Ben、keira、Summer、Sunny Choi | [《职业理论与决策小全局报告》](https://shimo.im/docs/qvYkgGDwhyXCDJYV/ ) |
-| 第3组-职业理论与决策 | keira                                                        | [《生涯发展理论》](https://shimo.im/docs/W9rpqg9dwVCrvchr/)  |
-| 第4组-职业理论与决策 | 李菁、阿茅、洪伟强                                           | [第4组-职业实践小全局报告](https://shimo.im/docs/VHcHPRkvpX69rYKH/ ) |
+| 第1组-自我认知       | [《霍兰德职业兴趣+小全局报告》](https://shimo.im/docs/kpqGjRRkhTQVVtdh/ ) | Grace                                                        |
+| 第1组-自我认知       | [《职业生涯-兴趣、价值观 小全局报告》](https://shimo.im/docs/8DctKJ3rJhwktDGg/) | Chris                                                        |
+| 第1组-自我认知       | [《三大哲学问题之“我是谁”》](https://docs.qq.com/doc/DU0xRbXltelJYWVdx) | 江                                                           |
+| 第1组-自我认知       | [《研究动机心理学应用于人岗之间的最小全局报告》](https://shimo.im/docs/g9TWwtWTcxqdKrYq/ ) | 曾梓庭                                                       |
+| 第2组-职业认知       | [《职业认知小全局》](https://docs.qq.com/doc/DR0ZCUUR4eU1SVndp) | 赵无忌、晴空、阿凡、左橙、长风、cc、清澈溪流、冬烟、Jinghong、Daphny、何亚平、东东咚咚、明、七七、梁梦吟、清晨、听风雨、单一念（主笔） |
+| 第2组-职业认知       | [《职业认知-职业定义与分类》](https://shimo.im/docs/kJXxXGwrVkT6vxxT/read) | I am Cc                                                      |
+| 第2组-职业认知       | [《与薪酬结构相关的理论和实践-以腾讯为例》](https://docs.qq.com/doc/DU3RZbE14ck9pQWdx) | 晴空                                                         |
+| 第2组-职业认知       | [《组织文化（企业）》](https://docs.qq.com/doc/DWGRJV1RvanpVUG9N) | 清澈溪流                                                     |
+| 第2组-职业认知       | [《我把ONET online的所有链接都点了一遍——ONET 探索日志》](https://docs.qq.com/doc/DR2Z6emhERmtJdE14) | 单一念                                                       |
+| 第2组-职业认知       | [《家庭生涯小全局报告》](https://shimo.im/docs/XYwpJvtrCT9G3VPd/read) | FuYu冬烟                                                     |
+| 第3组-职业理论与决策 | [《职业理论与决策小全局报告》](https://shimo.im/docs/qvYkgGDwhyXCDJYV/ ) | 郁珏（主笔）、零、耄羊子、梦境彼岸、巫小宏、小粉、Ben、keira、Summer、Sunny Choi |
+| 第3组-职业理论与决策 | [《生涯发展理论》](https://shimo.im/docs/W9rpqg9dwVCrvchr/)  | keira                                                        |
+| 第4组-职业理论与决策 | [第4组-职业实践小全局报告](https://shimo.im/docs/VHcHPRkvpX69rYKH/ ) | 李菁、阿茅、洪伟强                                           |
 
 P.S 点评参考文件[《全部作业反馈汇总.pdf》](https://github.com/gezhongran/KM-Career/blob/master/%E5%85%A8%E9%83%A8%E4%BD%9C%E4%B8%9A%E5%8F%8D%E9%A6%88%E6%B1%87%E6%80%BB.pdf)
 
@@ -147,4 +149,5 @@ P.S 点评参考文件[《全部作业反馈汇总.pdf》](https://github.com/ge
 - 2020.09.28 添加小全局报告
 - 2020.10.02 添加拼卡成文日志点评
 - 2020.10.10 添加薪酬、能力测试、MBTI、霍兰德、职业信息测试地址
+- 2020.10.15 添加后补同学日志
 
