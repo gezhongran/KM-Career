@@ -8,8 +8,8 @@
   每个主题的拓荒营只有一次，致敬参与职业生涯拓荒勇者们，以下是他们的名字，排名不分先后：**hellocan、左橙、何亚平、晴空、zj、Yufeng Nie、王浦朝、Meng、( ′? o ?′ )_? 王旭东、summer、Jinghong、karen向、Ivy、嗨，小粉马甲、长风、018、谢翔Ryan、Persevere、江、明  ?、Candy?、逾白、张文WendyZhang、Ben~?、赵无忌、咏叹、李菁、听风雨?、梁梦吟Catherine、薰、Keira、西门牛、芳、Aromacat、清澈溪流、Sunny Choi  ?、王剑豪、单一念、阿凡Fan、xiaoyang、高飞、方逸鹏?Terry、FuYu冬烟、曾梓庭、清晨、徐开心、Chris、七七、文君、Harrison、巫小宏、洪伟强、梦境彼岸、不忘初心、Daphny、I am Cc、Altaria、耄羊子、零、Grace、郁珏**
 
 1. 书单资源：**[职业生涯管理](https://www.douban.com/doulist/131340410/  )**（2020.09.14更新）
-
-2. 日志资源：
+2. 路演资源：**[职业生涯拓荒营直播路演回放](https://app8itcpmev8540.h5.xiaoeknow.com/v1/course/column/p_5f840ca4e4b0e95a89c38424?type=3&cacheclean=1604309131056&share_user_id=u_5eba3d254e7cc_YlWbSfTEgP&share_type=2&scene=%E5%88%86%E4%BA%AB&entry=2&entry_type=2001&is_redirect=1)**（2020.11.02）
+3. 日志资源：
 
 - Week1 图书搜索与目录对比日志（2020.09.16更新）
 
@@ -139,17 +139,18 @@ P.S 点评参考文件[《全部作业反馈汇总.pdf》](https://github.com/ge
 | [职业咨询角](www.careercc.com/careerexp.sht<br/>ml)     | 职业探索链接，提供了18 组职息的链接路径。                |
 | [工作猎头圣经](www.jobhuntersbible.com)                 | Dick Bolles官网（AUTHOR OF What Color IsYOUR PARACHUTE） |
 | [物理学家的职业生涯](https://www.aip.org/careers)       | 美国物理研究所,告诉学生在物理科学领域的各种              |
-7. 直播路演：10月10日晚上，10月11日下午
+
 
 ---
 
 ### changelog:
 
-- 2020.09.07 创建仓库
-- 2020.09.15 添加书单资源、添加从[知识管理训练营仓库](https://github.com/gezhongran/km-translators)移入职业信息资源
-- 2020.09.21 添加学员日志
-- 2020.09.28 添加小全局报告
-- 2020.10.02 添加拼卡成文日志点评
-- 2020.10.10 添加薪酬、能力测试、MBTI、霍兰德、职业信息测试地址
+- 2020.11.02 添加路演回放视频
 - 2020.10.15 添加后补同学日志
+- 2020.10.10 添加薪酬、能力测试、MBTI、霍兰德、职业信息测试地址
+- 2020.10.02 添加拼卡成文日志点评
+- 2020.09.28 添加小全局报告
+- 2020.09.21 添加学员日志
+- 2020.09.15 添加书单资源、添加从[知识管理训练营仓库](https://github.com/gezhongran/km-translators)移入职业信息资源
+- 2020.09.07 创建仓库
 
